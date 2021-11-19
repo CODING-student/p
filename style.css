@@ -1,0 +1,39 @@
+.goodnight{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.fan{
+    font-size: 15px;
+    color:yellow;
+}
+.royale{
+    float: left;
+}
+.clash{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    margin: 15px;
+    font-size: 23px;
+}
+.yawn{
+    float: right;
+
+}
+#volume{
+    margin: 15px;
+    font-size: 23px;
+}
+body{
+    background-size: cover;
+}
+.roll{
+    width: 125px;
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
